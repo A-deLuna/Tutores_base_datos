@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tutorfoxlogo.png</file>
+    </qresource>
+</RCC>
